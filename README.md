@@ -5,6 +5,10 @@ Human Action Detection is a machine learning project focused on classifying diff
 The project follows a complete ML pipeline including data analysis, preprocessing, model training, and performance evaluation.
 </p>
 
+<p>
+📥 <a href="https://www.kaggle.com/datasets/gaurav2022/mobile-health" target="_blank">Download Mobile Health Dataset on Kaggle</a>
+</p>
+
 <hr>
 
 <h2>📌 Project Overview</h2>
